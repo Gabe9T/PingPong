@@ -8,7 +8,7 @@
 
 ## Usage
 This app enables users to:
-- Guess the riddle 
+- Type in a number and every multiple of 3 or 5 changes 
 
 ## Setup/Installation Requirements 
 1. Navigate to the [GitHub repository](https://github.com/Gabe9T/PingPong.git) for this project.
