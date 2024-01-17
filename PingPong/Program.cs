@@ -50,7 +50,7 @@ class Program
     }
     else
     {
-      Console.WriteLine("Enter a Number: ");
+      Console.WriteLine( "Enter a Number: ");
     }
   }
   static void ApplyColor(ConsoleColor colors)
