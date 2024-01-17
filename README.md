@@ -1,9 +1,9 @@
-# SPHINX
+# PING PONG
 
 ## By Gabriel Tucker
 
 ## Technologies Used
-- c#
+- C#
 
 
 ## Usage
